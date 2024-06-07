@@ -1,0 +1,14 @@
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\bin\Debug\net8.0\MenuKotaUYG.exe
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\bin\Debug\net8.0\MenuKotaUYG.deps.json
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\bin\Debug\net8.0\MenuKotaUYG.runtimeconfig.json
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\bin\Debug\net8.0\MenuKotaUYG.dll
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\bin\Debug\net8.0\MenuKotaUYG.pdb
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.dll
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\refint\MenuKotaUYG.dll
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.pdb
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\MenuKotaUYG.genruntimeconfig.cache
+C:\Users\Berkay\Desktop\MenuKotaUYG\MenuKotaUYG\obj\Debug\net8.0\ref\MenuKotaUYG.dll
